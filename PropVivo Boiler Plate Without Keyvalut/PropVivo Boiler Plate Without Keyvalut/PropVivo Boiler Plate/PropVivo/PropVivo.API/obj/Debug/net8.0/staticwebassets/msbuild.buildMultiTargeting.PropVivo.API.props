@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PropVivo.API.props" />
+</Project>

@@ -1,0 +1,34 @@
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.deps.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Application.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Domain.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Application.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Domain.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.csproj.AssemblyReference.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.AssemblyInfoInputs.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.AssemblyInfo.cs
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.csproj.CoreCompileInputs.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.B2F0406B.Up2Date
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\refint\PropVivo.AzureStorage.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\ref\PropVivo.AzureStorage.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.deps.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.AzureStorage.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Application.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Domain.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Application.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\bin\Debug\net8.0\PropVivo.Domain.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.csproj.AssemblyReference.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.AssemblyInfoInputs.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.AssemblyInfo.cs
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.csproj.CoreCompileInputs.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.B2F0406B.Up2Date
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\refint\PropVivo.AzureStorage.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\PropVivo.AzureStorage.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.AzureStorage\obj\Debug\net8.0\ref\PropVivo.AzureStorage.dll

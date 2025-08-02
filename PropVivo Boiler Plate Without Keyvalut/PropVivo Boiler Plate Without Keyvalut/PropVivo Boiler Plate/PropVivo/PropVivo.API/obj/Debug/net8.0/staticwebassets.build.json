@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6vNmnPl0dd0Id19R6A+fZfvXIz17Z3kMhP4IA+YwvEw=",
+  "Source": "PropVivo.API",
+  "BasePath": "_content/PropVivo.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

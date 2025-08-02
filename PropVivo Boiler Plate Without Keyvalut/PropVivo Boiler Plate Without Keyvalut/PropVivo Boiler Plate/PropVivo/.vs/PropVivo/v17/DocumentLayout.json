@@ -1,0 +1,495 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.infrastructure\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|solutionrelative:propvivo.infrastructure\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.infrastructure\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|solutionrelative:propvivo.infrastructure\\repositories\\sqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.infrastructure\\configureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606E6636-B206-408A-BB60-4FE54BEA9841}|PropVivo.Infrastructure\\PropVivo.Infrastructure.csproj|solutionrelative:propvivo.infrastructure\\configureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|solutionrelative:propvivo.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.api\\extensions\\middleware\\localapimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|solutionrelative:propvivo.api\\extensions\\middleware\\localapimiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{107D084A-8151-4DD1-AB09-B8CC145A3629}|PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.azurestorage\\azurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{107D084A-8151-4DD1-AB09-B8CC145A3629}|PropVivo.AzureStorage\\PropVivo.AzureStorage.csproj|solutionrelative:propvivo.azurestorage\\azurestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.api\\propvivo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|solutionrelative:propvivo.api\\propvivo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\common\\base\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\common\\base\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\bulkuploadmedia\\bulkuploadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\bulkuploadmedia\\bulkuploadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\uploadmedia\\uploadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\uploadmedia\\uploadmediavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.api\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|solutionrelative:propvivo.api\\controllers\\mediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95180EA-A900-4E59-83CB-477CD7131732}|PropVivo.API\\PropVivo.API.csproj|solutionrelative:propvivo.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\getallrole\\getallrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\getallrole\\getallrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\getallrole\\getallrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\getallrole\\getallrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\getallrole\\getallrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\getallrole\\getallrolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\downloadmedia\\downloadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\updaterole\\updaterolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\updaterole\\updaterolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\createrole\\createrolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\deleterole\\deleterolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\deleterole\\deleterolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\bulkuploadmedia\\bulkuploadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\bulkuploadmedia\\bulkuploadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\createrole\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\createrole\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\common\\base\\baseresponsepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\common\\base\\baseresponsepagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\updaterole\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\updaterole\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\rolefeature\\deleterole\\deleterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\rolefeature\\deleterole\\deleterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\mediafeature\\uploadmedia\\uploadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\mediafeature\\uploadmedia\\uploadmediarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|d:\\propvivo\\api\\sample\\propvivo boiler plate without keyvalut\\propvivo boiler plate\\propvivo\\propvivo.application\\dto\\azurestorage\\blobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9730B53A-202D-44FC-AD0A-53350D99037E}|PropVivo.Application\\PropVivo.Application.csproj|solutionrelative:propvivo.application\\dto\\azurestorage\\blobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\Contexts\\DapperContext.cs",
+              "RelativeDocumentMoniker": "PropVivo.Infrastructure\\Contexts\\DapperContext.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\Contexts\\DapperContext.cs",
+              "RelativeToolTip": "PropVivo.Infrastructure\\Contexts\\DapperContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:50:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlRepository.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\Repositories\\SqlRepository.cs",
+              "RelativeDocumentMoniker": "PropVivo.Infrastructure\\Repositories\\SqlRepository.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\Repositories\\SqlRepository.cs",
+              "RelativeToolTip": "PropVivo.Infrastructure\\Repositories\\SqlRepository.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAiwM0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:50:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Startup.cs",
+              "RelativeDocumentMoniker": "PropVivo.API\\Startup.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Startup.cs",
+              "RelativeToolTip": "PropVivo.API\\Startup.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:12:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalApiMiddleware.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Extensions\\Middleware\\LocalApiMiddleware.cs",
+              "RelativeDocumentMoniker": "PropVivo.API\\Extensions\\Middleware\\LocalApiMiddleware.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Extensions\\Middleware\\LocalApiMiddleware.cs",
+              "RelativeToolTip": "PropVivo.API\\Extensions\\Middleware\\LocalApiMiddleware.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:11:28.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServiceExtensions.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\ConfigureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "PropVivo.Infrastructure\\ConfigureServiceExtensions.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Infrastructure\\ConfigureServiceExtensions.cs",
+              "RelativeToolTip": "PropVivo.Infrastructure\\ConfigureServiceExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:11:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AzureStorage.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\AzureStorage.cs",
+              "RelativeDocumentMoniker": "PropVivo.AzureStorage\\AzureStorage.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.AzureStorage\\AzureStorage.cs",
+              "RelativeToolTip": "PropVivo.AzureStorage\\AzureStorage.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowMkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:53.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropVivo.API.csproj",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj",
+              "RelativeDocumentMoniker": "PropVivo.API\\PropVivo.API.csproj",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\PropVivo.API.csproj",
+              "RelativeToolTip": "PropVivo.API\\PropVivo.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T06:09:54.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Common\\Base\\Request.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Common\\Base\\Request.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Common\\Base\\Request.cs",
+              "RelativeToolTip": "PropVivo.Application\\Common\\Base\\Request.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA/wCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DownloadMediaHandler.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaHandler.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaHandler.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaHandler.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DownloadMediaValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaValidator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BulkUploadMediaValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaValidator.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PropVivo.API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PropVivo.API\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadMediaValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaValidator.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MediaController.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Controllers\\MediaController.cs",
+              "RelativeDocumentMoniker": "PropVivo.API\\Controllers\\MediaController.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.API\\Controllers\\MediaController.cs",
+              "RelativeToolTip": "PropVivo.API\\Controllers\\MediaController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllRoleValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleValidator.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAllRoleHandler.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleHandler.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleHandler.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleHandler.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetAllRoleRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\GetAllRole\\GetAllRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DownloadMediaRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\DownloadMedia\\DownloadMediaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateRoleValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleValidator.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateRoleValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleValidator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteRoleValidator.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleValidator.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleValidator.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleValidator.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BulkUploadMediaRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\BulkUploadMedia\\BulkUploadMediaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseResponsePagination.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Common\\Base\\BaseResponsePagination.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Common\\Base\\BaseResponsePagination.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Common\\Base\\BaseResponsePagination.cs",
+              "RelativeToolTip": "PropVivo.Application\\Common\\Base\\BaseResponsePagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateRoleRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\CreateRole\\CreateRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteRoleRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\DeleteRole\\DeleteRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateRoleRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\RoleFeature\\UpdateRole\\UpdateRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UploadMediaRequest.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaRequest.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaRequest.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaRequest.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\MediaFeature\\UploadMedia\\UploadMediaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlobResponseDto.cs",
+              "DocumentMoniker": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\AzureStorage\\BlobResponseDto.cs",
+              "RelativeDocumentMoniker": "PropVivo.Application\\Dto\\AzureStorage\\BlobResponseDto.cs",
+              "ToolTip": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\Dto\\AzureStorage\\BlobResponseDto.cs",
+              "RelativeToolTip": "PropVivo.Application\\Dto\\AzureStorage\\BlobResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:09:54.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

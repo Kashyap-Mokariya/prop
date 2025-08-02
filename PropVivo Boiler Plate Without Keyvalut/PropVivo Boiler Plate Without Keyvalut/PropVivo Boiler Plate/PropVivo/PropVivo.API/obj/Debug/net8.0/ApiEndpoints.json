@@ -1,0 +1,539 @@
+[
+  {
+    "ContainingType": "PropVivo.API.Controllers.MediaController",
+    "Method": "BulkUploadMediaAsync",
+    "RelativePath": "api/v{version}/Media/BulkUpload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FormFiles",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContainerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SubFolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.SessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.TrackingId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.Uri",
+        "Type": "System.Uri",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.UserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Dto.MediaFeature.BulkUploadMedia.BulkUploadMediaResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.MediaController",
+    "Method": "Download",
+    "RelativePath": "api/v{version}/Media/Download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FilePath",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContainerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SubFolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.SessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.TrackingId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.Uri",
+        "Type": "System.Uri",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.UserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.MediaController",
+    "Method": "UploadMediaAsync",
+    "RelativePath": "api/v{version}/Media/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FormFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContainerName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SubFolderName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.SessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.TrackingId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.Uri",
+        "Type": "System.Uri",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.UserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Dto.MediaFeature.UploadMedia.UploadMediaResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.RoleController",
+    "Method": "CreateRoleAsync",
+    "RelativePath": "api/v{version}/Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "PropVivo.Application.Dto.RoleFeature.CreateRole.CreateRoleRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Common.Base.BaseResponse\u00601[[PropVivo.Application.Dto.RoleFeature.CreateRole.CreateRoleResponse, PropVivo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 0
+      },
+      {
+        "Type": "PropVivo.Application.Dto.RoleFeature.CreateRole.CreateRoleResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.RoleController",
+    "Method": "GetRoleAsync",
+    "RelativePath": "api/v{version}/Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RoleId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "BusinessTypeId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CountryId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IsActive",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "LegalEntityTypeId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SubTypeId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FilterByCriteria",
+        "Type": "System.Collections.Generic.List\u00601[[PropVivo.Application.Common.Base.FilterByCriteria, PropVivo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderByCriteria.Order",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "OrderByCriteria.OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageCriteria.EnablePage",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageCriteria.HasMoreData",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageCriteria.PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageCriteria.Skip",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.SessionId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.TrackingId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.Uri",
+        "Type": "System.Uri",
+        "IsRequired": false
+      },
+      {
+        "Name": "ExecutionContext.UserId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Common.Base.BaseResponsePagination\u00601[[PropVivo.Application.Dto.RoleFeature.GetAllRole.RoleItem, PropVivo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 0
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.RoleController",
+    "Method": "DeleteRoleAsync",
+    "RelativePath": "api/v{version}/Role/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Common.Base.BaseResponse\u00601[[PropVivo.Application.Dto.RoleFeature.DeleteRole.DeleteRoleResponse, PropVivo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 0
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.RoleController",
+    "Method": "UpdateRoleAsync",
+    "RelativePath": "api/v{version}/Role/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleEditRequest",
+        "Type": "PropVivo.Application.Dto.RoleFeature.UpdateRole.UpdateRoleRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "PropVivo.Application.Common.Base.BaseResponse\u00601[[PropVivo.Application.Dto.RoleFeature.UpdateRole.UpdateRoleResponse, PropVivo.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 0
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  },
+  {
+    "ContainingType": "PropVivo.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PropVivo.API.WeatherForecast, PropVivo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

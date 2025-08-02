@@ -1,0 +1,208 @@
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\msvcp140.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\vcruntime140.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\vcruntime140_1.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\appsettings.Development.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\appsettings.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.exe
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.deps.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.runtimeconfig.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\AutoMapper.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Core.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Security.KeyVault.Secrets.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Dapper.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\MediatR.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.ClientModel.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Application.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.AzureStorage.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Domain.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Infrastructure.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.KeyValut.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Application.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.AzureStorage.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Infrastructure.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.KeyValut.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Domain.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.csproj.AssemblyReference.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.AssemblyInfoInputs.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.AssemblyInfo.cs
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.csproj.CoreCompileInputs.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.MvcApplicationPartsAssemblyInfo.cs
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.MvcApplicationPartsAssemblyInfo.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.PropVivo.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.build.PropVivo.API.props
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropVivo.API.props
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropVivo.API.props
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\scopedcss\bundle\PropVivo.API.styles.css
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.1975AE8E.Up2Date
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\refint\PropVivo.API.dll
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.pdb
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.genruntimeconfig.cache
+D:\PropVivo\Net 8\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\ref\PropVivo.API.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.csproj.AssemblyReference.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.AssemblyInfoInputs.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.AssemblyInfo.cs
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.csproj.CoreCompileInputs.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\refint\PropVivo.API.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\msvcp140.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\appsettings.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.staticwebassets.endpoints.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.exe
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.deps.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.runtimeconfig.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.API.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Application.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.AzureStorage.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Domain.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Infrastructure.dll
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Application.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.AzureStorage.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Infrastructure.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\bin\Debug\net8.0\PropVivo.Domain.pdb
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\scopedcss\bundle\PropVivo.API.styles.css
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.PropVivo.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.PropVivo.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.build.PropVivo.API.props
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropVivo.API.props
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropVivo.API.props
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.1975AE8E.Up2Date
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\PropVivo.API.genruntimeconfig.cache
+C:\Users\propvivo\Downloads\PropVivo Boiler Plate\PropVivo Boiler Plate\PropVivo\PropVivo.API\obj\Debug\net8.0\ref\PropVivo.API.dll

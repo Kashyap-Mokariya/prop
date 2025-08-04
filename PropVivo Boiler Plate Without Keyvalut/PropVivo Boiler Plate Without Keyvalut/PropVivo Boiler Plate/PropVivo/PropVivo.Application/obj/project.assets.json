@@ -448,42 +448,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\propvivo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\LEGION\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
+      "projectUniqueName": "D:\\Intern Assignments\\prop\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
       "projectName": "PropVivo.Application",
-      "projectPath": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
-      "packagesPath": "C:\\Users\\propvivo\\.nuget\\packages\\",
-      "outputPath": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\obj\\",
+      "projectPath": "D:\\Intern Assignments\\prop\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\PropVivo.Application.csproj",
+      "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
+      "outputPath": "D:\\Intern Assignments\\prop\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\propvivo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/nueralia/_packaging/nueralia/nuget/v3/index.json": {},
-        "https://pkgs.dev.azure.com/propvivodevops/_packaging/PVIntegrated/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj": {
-              "projectPath": "D:\\PropVivo\\API\\Sample\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj"
+            "D:\\Intern Assignments\\prop\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj": {
+              "projectPath": "D:\\Intern Assignments\\prop\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate Without Keyvalut\\PropVivo Boiler Plate\\PropVivo\\PropVivo.Domain\\PropVivo.Domain.csproj"
             }
           }
         }
@@ -497,8 +487,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -528,26 +517,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.12, 8.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.12, 8.0.12]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.12, 8.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

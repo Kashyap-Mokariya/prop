@@ -1,5 +1,6 @@
 ﻿using Asp.Versioning;
 using PropVivo.API.Extensions;
+using PropVivo.API.Hubs;
 using PropVivo.Application;
 using PropVivo.AzureStorage;
 using PropVivo.Infrastructure;
@@ -11,27 +12,27 @@ namespace PropVivo.API
         public void Configure(IApplicationBuilder app)
         {
             app.UseHttpsRedirection();
-
             app.UseSwaggerGen();
             app.EnsureCosmosDbIsCreated();
             app.AddMiddleware();
 
             app.UseRouting();
+            app.UseCors();
             app.UseAuthentication();
             app.UseAuthorization();
+            
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<CallHub>("/callhub");
             });
-
-            // app.UseCors("CorsPolicy");
         }
 
         public void ConfigureServices(IServiceCollection services, IConfiguration configuration)
         {
             services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             services.AddEndpointsApiExplorer();
+            services.AddSignalR();
 
             services.AddInjectionApplication();
             services.AddInjectionAzureStorage();
@@ -39,12 +40,9 @@ namespace PropVivo.API
 
             services.ConfigureApiBehavior();
             services.ConfigureCorsPolicy();
-
             services.AddSwaggerDocumentation();
             services.AddIdentityService(configuration);
-            //services.AddHostedService<WorkerServiceBus>();
 
-            // Add versioning in the APIs
             services.AddApiVersioning(config =>
             {
                 config.DefaultApiVersion = new ApiVersion(1, 0);

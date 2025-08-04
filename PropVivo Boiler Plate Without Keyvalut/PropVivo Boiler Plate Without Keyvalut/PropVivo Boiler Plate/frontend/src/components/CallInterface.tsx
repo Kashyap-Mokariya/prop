@@ -38,16 +38,40 @@ const CallInterface: React.FC = () => {
         audio.play().catch(e => console.log('Audio play failed:', e));
     };
 
-    const handleAnswerCall = () => {
+    const handleAnswerCall = async () => {
         setIsCallActive(true);
-        // Implement call answering logic
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        setAudioStream(stream);
+        localRef.current!.srcObject = stream;
+
+        recorder = new MediaRecorder(stream);
+        recorder.ondataavailable = async (e) => {
+            if (isVoiceModActive) {
+                const mod = await callService.modulateVoice(
+                    new Uint8Array(await e.data.arrayBuffer()),
+                    'indian',
+                    'american'
+                );
+                const blob = new Blob([mod], { type: 'audio/webm' });
+                remoteRef.current!.src = URL.createObjectURL(blob);
+                remoteRef.current!.play();
+            }
+        };
+        recorder.start(1000);
+
+        await callService.startVoiceCall(currentCall!.callId);
+        setVoiceModActive(true);
     };
 
-    const handleEndCall = () => {
+    const handleEndCall = async () => {
+        recorder?.stop();
+        audioStream?.getTracks().forEach(t => t.stop());
         setIsCallActive(false);
         setCurrentCall(null);
-        // Implement call ending logic
+        setVoiceModActive(false);
+        await callService.endVoiceCall(currentCall!.callId);
     };
+
 
     const simulateCall = async () => {
         try {
@@ -59,6 +83,8 @@ const CallInterface: React.FC = () => {
 
     return (
         <div className="call-interface">
+            <audio ref={localRef} autoPlay muted />
+            <audio ref={remoteRef} autoPlay />
             <div className="header">
                 <h1>Customer Support Portal</h1>
                 <div className="test-controls">

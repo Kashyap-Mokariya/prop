@@ -13,6 +13,20 @@ namespace PropVivo.API.Controllers
     {
         private readonly IMediator _mediator;
 
+        private readonly ICallNotificationService _notificationService;
+        private readonly IVoiceModulationService _voiceModulationService;
+
+        public CallController(
+            IMediator mediator,
+            ICallNotificationService notificationService,
+            IVoiceModulationService voiceModulationService
+        )
+        {
+            _mediator = mediator;
+            _notificationService = notificationService;
+            _voiceModulationService = voiceModulationService;
+        }
+
         public CallController(IMediator mediator)
         {
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
@@ -27,8 +41,8 @@ namespace PropVivo.API.Controllers
             [FromBody] IncomingCallRequest request, 
             CancellationToken cancellationToken)
         {
-            var response = await _mediator.Send(request, cancellationToken);
-            return Ok(response);
+            var resp = await _mediator.Send(request, cancellationToken);
+            await _notificationService.NotifyIncomingCallAsync(resp.Data);
         }
 
         [HttpPost("webhook")]

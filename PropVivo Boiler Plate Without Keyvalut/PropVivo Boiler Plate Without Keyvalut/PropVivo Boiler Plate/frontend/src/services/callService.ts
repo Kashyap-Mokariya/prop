@@ -20,52 +20,81 @@ export interface IncomingCall {
 }
 
 class CallService {
-  private connection: signalR.HubConnection;
-  private readonly baseUrl = 'https://localhost:7266/api/v1';
+	private connection: signalR.HubConnection;
+	private readonly baseUrl = "https://localhost:7266/api/v1";
 
-  constructor() {
-    this.connection = new signalR.HubConnectionBuilder()
-      .withUrl('https://localhost:7266/callhub')
-      .build();
+	constructor() {
+		this.connection = new signalR.HubConnectionBuilder()
+			.withUrl("https://localhost:7266/callhub")
+			.build();
 
-    this.startConnection();
-  }
+		this.startConnection();
+	}
 
-  private async startConnection() {
-    try {
-      await this.connection.start();
-      console.log('SignalR Connected');
-    } catch (err) {
-      console.error('SignalR Connection Error: ', err);
-      setTimeout(() => this.startConnection(), 5000);
-    }
-  }
+	private async startConnection() {
+		try {
+			await this.connection.start();
+			console.log("SignalR Connected");
+		} catch (err) {
+			console.error("SignalR Connection Error: ", err);
+			setTimeout(() => this.startConnection(), 5000);
+		}
+	}
 
-  onIncomingCall(callback: (call: IncomingCall) => void) {
-    this.connection.on('IncomingCall', callback);
-  }
+	onIncomingCall(callback: (call: IncomingCall) => void) {
+		this.connection.on("IncomingCall", callback);
+	}
 
-  onCallStatusUpdate(callback: (data: { callId: string; status: string }) => void) {
-    this.connection.on('CallStatusUpdate', callback);
-  }
+	onCallStatusUpdate(
+		callback: (data: {callId: string; status: string}) => void
+	) {
+		this.connection.on("CallStatusUpdate", callback);
+	}
 
-  async simulateIncomingCall(phoneNumber: string) {
-    try {
-      const response = await axios.post(`${this.baseUrl}/call/incoming`, {
-        callerPhoneNumber: phoneNumber,
-        receiverPhoneNumber: '+1555000123',
-        callTime: new Date().toISOString(),
-        executionContext: {
-          trackingId: crypto.randomUUID(),
-          sessionId: 'demo-session'
-        }
-      });
-      return response.data;
-    } catch (error) {
-      console.error('Error simulating call:', error);
-      throw error;
-    }
-  }
+	onVoiceCallStarted(cb: (id: string) => void) {
+		this.connection.on("VoiceCallStarted", cb);
+	}
+	onVoiceCallEnded(cb: (id: string) => void) {
+		this.connection.on("VoiceCallEnded", cb);
+	}
+
+	startVoiceCall(callId: string) {
+		return axios.post(`${this.baseUrl}/call/${callId}/start-voice`);
+	}
+	endVoiceCall(callId: string) {
+		return axios.post(`${this.baseUrl}/call/${callId}/end-voice`);
+	}
+	modulateVoice(data: Uint8Array, from: string, to: string) {
+		return axios
+			.post(
+				`${this.baseUrl}/call/modulate-voice`,
+				{
+					audioData: Array.from(data),
+					fromAccent: from,
+					toAccent: to,
+				},
+				{responseType: "arraybuffer"}
+			)
+			.then((r) => new Uint8Array(r.data));
+	}
+
+	async simulateIncomingCall(phoneNumber: string) {
+		try {
+			const response = await axios.post(`${this.baseUrl}/call/incoming`, {
+				callerPhoneNumber: phoneNumber,
+				receiverPhoneNumber: "+1555000123",
+				callTime: new Date().toISOString(),
+				executionContext: {
+					trackingId: crypto.randomUUID(),
+					sessionId: "demo-session",
+				},
+			});
+			return response.data;
+		} catch (error) {
+			console.error("Error simulating call:", error);
+			throw error;
+		}
+	}
 }
 
 export default new CallService();

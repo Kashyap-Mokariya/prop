@@ -35,32 +35,59 @@ namespace PropVivo.API.Controllers
         [AllowAnonymous]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public async Task<IActionResult> ReceiveCallWebhook([FromBody] dynamic webhookData)
+        [HttpPost("webhook/incoming")]
+        public async Task<IActionResult> ReceiveCallWebhook([FromForm] TwilioWebhookRequest data)
         {
-            // Extract phone number from webhook data (format depends on your call API provider)
-            // Example for a generic webhook:
-            var callerNumber = webhookData?.from?.ToString();
-            var receiverNumber = webhookData?.to?.ToString();
-            var callId = webhookData?.call_id?.ToString();
-
-            if (string.IsNullOrEmpty(callerNumber))
-                return BadRequest("Invalid webhook data");
+            if (string.IsNullOrEmpty(data.From))
+                return BadRequest("Invalid Twilio webhook");
 
             var request = new IncomingCallRequest
             {
-                CallerPhoneNumber = callerNumber,
-                ReceiverPhoneNumber = receiverNumber,
-                CallId = callId,
+                CallerPhoneNumber = data.From,
+                ReceiverPhoneNumber = data.To,
+                CallId = data.CallSid,
                 CallTime = DateTime.UtcNow,
-                ExecutionContext = new PropVivo.Application.Common.Base.ExecutionContext
+                ExecutionContext = new ExecutionContext
                 {
                     TrackingId = Guid.NewGuid().ToString(),
-                    SessionId = "webhook-session"
-                }
+                    SessionId = "twilio-webhook",
+                },
             };
 
-            var response = await _mediator.Send(request);
-            return Ok(new { success = response.Success, callId = response.Data?.CallId });
+            var resp = await _mediator.Send(request);
+            await _notificationService.NotifyIncomingCallAsync(resp.Data!);
+
+            // Return TwiML to Twilio
+            var twiml = new Twilio.TwiML.VoiceResponse();
+            twiml.Say("Please wait while we connect you.");
+
+            return Content(twiml.ToString(), "application/xml");
+        }
+
+        [HttpPost("modulate-voice")]
+        public async Task<IActionResult> ModulateVoice([FromBody] VoiceModulationRequest req)
+        {
+            var audio = req.AudioData.Select(b => (byte)b).ToArray();
+            var modulated = await _voiceModulationService.ModulateVoiceAsync(
+                audio,
+                req.FromAccent,
+                req.ToAccent
+            );
+            return File(modulated, "audio/webm");
+        }
+
+        public class VoiceModulationRequest
+        {
+            public List<int> AudioData { get; set; }
+            public string FromAccent { get; set; }
+            public string ToAccent { get; set; }
+        }
+
+        public class TwilioWebhookRequest
+        {
+            public string CallSid { get; set; } // from form field "CallSid"
+            public string From { get; set; } // from form field "From"
+            public string To { get; set; } // from form field "To"
         }
     }
 }

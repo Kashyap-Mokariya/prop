@@ -43,6 +43,10 @@ namespace PropVivo.API
             services.AddSwaggerDocumentation();
             services.AddIdentityService(configuration);
 
+            services.AddScoped<ITwilioService, TwilioService>();
+            services.AddScoped<ICallNotificationService, CallNotificationService>();
+            services.AddHttpClient<IVoiceModulationService, VoiceModulationService>();
+
             services.AddApiVersioning(config =>
             {
                 config.DefaultApiVersion = new ApiVersion(1, 0);

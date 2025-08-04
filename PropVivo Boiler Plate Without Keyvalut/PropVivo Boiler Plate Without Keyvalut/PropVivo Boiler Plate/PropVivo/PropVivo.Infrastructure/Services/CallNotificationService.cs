@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 using PropVivo.API.Hubs;
 using PropVivo.Application.Dto.CallFeature.IncomingCall;
@@ -7,21 +8,14 @@ namespace PropVivo.Infrastructure.Services
 {
     public class CallNotificationService : ICallNotificationService
     {
-        private readonly IHubContext<CallHub> _hubContext;
+        private readonly IHubContext<CallHub> _hub;
 
-        public CallNotificationService(IHubContext<CallHub> hubContext)
-        {
-            _hubContext = hubContext;
-        }
+        public CallNotificationService(IHubContext<CallHub> hub) => _hub = hub;
 
-        public async Task NotifyIncomingCallAsync(IncomingCallResponse callData)
-        {
-            await _hubContext.Clients.All.SendAsync("IncomingCall", callData);
-        }
+        public Task NotifyIncomingCallAsync(IncomingCallResponse data) =>
+            _hub.Clients.All.SendAsync("IncomingCall", data);
 
-        public async Task NotifyCallStatusUpdateAsync(string callId, string status)
-        {
-            await _hubContext.Clients.All.SendAsync("CallStatusUpdate", new { callId, status });
-        }
+        public Task NotifyCallStatusUpdateAsync(string callId, string status) =>
+            _hub.Clients.All.SendAsync("CallStatusUpdate", callId, status);
     }
 }

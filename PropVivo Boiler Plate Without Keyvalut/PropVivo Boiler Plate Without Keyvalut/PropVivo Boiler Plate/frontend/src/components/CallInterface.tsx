@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import callService, { type IncomingCall } from '../services/callService';
 import './CallInterface.css';
 
@@ -7,6 +7,12 @@ const CallInterface: React.FC = () => {
     const [callHistory, setCallHistory] = useState<IncomingCall[]>([]);
     const [isCallActive, setIsCallActive] = useState(false);
     const [testPhoneNumber, setTestPhoneNumber] = useState('+1234567890');
+    const [audioStream, setAudioStream] = useState<MediaStream | null>(null);
+    const [isVoiceModActive, setVoiceModActive] = useState(false);
+    const localRef = useRef<HTMLAudioElement>(null);
+    const remoteRef = useRef<HTMLAudioElement>(null);
+    let recorder: MediaRecorder | null = null;
+
 
     useEffect(() => {
         // Listen for incoming calls
